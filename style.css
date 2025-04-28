@@ -86,7 +86,7 @@ word:nth-child(5){
     z-index: 0;
     display: none;
     background: #3636a0;
-    padding: 5px;
+    padding-right: 5px;
     width: 100%;
 }
 .drop-down:hover .drop-down-content{
@@ -169,7 +169,7 @@ button:hover{
 
      #nav-bar{
         display: flex;
-        justify-content: space-around;
+        justify-content:space-between;
         
     }
 /* 
